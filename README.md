@@ -1,8 +1,9 @@
-## Aplikasi Penjualan
+# UAS Pemrograman Visual
+# Aplikasi Penjualan
 
-# Nama  : Ainul Yaqin 
-# NIM   : 312010423
-# Kelas : TI.20.RPL-1
+## Nama  : Ainul Yaqin 
+## NIM   : 312010423
+## Kelas : TI.20.RPL-1
 
 
 Aplikasi penjualan sederhana adalah aplikasi yang digunakan untuk mencatat transaksi penjualan. Aplikasi ini biasanya digunakan oleh bisnis kecil dan menengah untuk mengelola penjualannya secara lebih efisien dan efektif.<br>
@@ -18,5 +19,4 @@ Mempermudah proses pencatatan transaksi penjualan.<br>
 Membantu dalam pengelolaan stok produk.<br>
 Meningkatkan efisiensi dan efektivitas pengelolaan penjualan.<br>
 
-### Link YT 
-https://youtu.be/mndsdjhdfkd
+### Link Youtube : [click Here](https://youtu.be/mndsdjhdfkd)
